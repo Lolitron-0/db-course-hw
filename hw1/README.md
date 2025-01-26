@@ -11,7 +11,7 @@
 ## Схема
 ![](image.png)
 
-## Автосгенеренный SQL код (не тестил)
+## Автосгенеренный MySQL код (не тестил)
 ```sql
 CREATE TABLE `status` (
   `id` integer PRIMARY KEY,
